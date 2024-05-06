@@ -2,7 +2,7 @@ Hi there! 👋 I'm Sajan Kumar Tak
 
 ## About Me
 👨‍💻 I'm a passionate fresher diving into the world of DevOps.  
-🌱 Currently Remotely learning and exploring various tools and technologies in DevOps like Docker, Kubernetes, Aws, Ansible, Jenkins, Linux, Git, Promotheous, Grafana etc. From Grass Pvt Institute Jaipur
+🌱 Currently Remotely learning and exploring various tools and technologies in DevOps like Docker, Kubernetes, Aws, Ansible, Jenkins, Linux, Git, Prometheous, Grafana etc. From Grass Pvt Institute Jaipur
 
 💡 Certified: RedHat Certified System Administrator ( RHCSA ) 💡 RedHat Certified Engineerr ( RHCE )
 
