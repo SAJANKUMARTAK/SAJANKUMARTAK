@@ -30,7 +30,7 @@ Hi there! 👋 I'm Sajan Kumar Tak
 
 ## Connect with Me
 📫 Feel free to reach out to me:
-- [LinkedIn](Your LinkedIn Profile Link)
-- [Twitter](Your Twitter Profile Link)
+- [LinkedIn] : https://www.linkedin.com/in/sajan-kumar-tak-664076172/
+  
 
 Let's connect and learn together! 😊
