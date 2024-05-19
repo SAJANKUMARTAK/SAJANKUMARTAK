@@ -28,7 +28,5 @@ Contact Me : +91 6375246288, sktak100@gmail.com
 ## Connect with Me
 📫 Feel free to reach out to me:
 - [LinkedIn] : https://www.linkedin.com/in/sajan-kumar-tak-664076172
-- [Instagram]: https://www.instagram.com/sajan.tak/?hl=en
-- [Facebook]: https://www.facebook.com/profile.php?id=100072704805740
-  
+
 Let's connect and learn together! 😊
