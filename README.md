@@ -1,4 +1,5 @@
 Hi there! 👋 I'm Sajan Kumar Tak from Ajmer Rajasthan
+Contact Me : +91 6375246288, sktak100@gmail.com
 
 ## About Me
 👨‍💻 I'm a passionate fresher diving into the world of DevOps.  
@@ -26,8 +27,6 @@ Hi there! 👋 I'm Sajan Kumar Tak from Ajmer Rajasthan
 
 ## Connect with Me
 📫 Feel free to reach out to me:
-- [Whatsapp] : +91 6375246288, +91 9783953621
-- [Email] : sktak100@gmail.com
 - [LinkedIn] : https://www.linkedin.com/in/sajan-kumar-tak-664076172
 - [Instagram]: https://www.instagram.com/sajan.tak/?hl=en
 - [Facebook]: https://www.facebook.com/profile.php?id=100072704805740
