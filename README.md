@@ -19,14 +19,17 @@ Hi there! 👋 I'm Sajan Kumar Tak from Ajmer Rajasthan
 - Continuous Integration/Continuous Deployment (CI/CD): Jenkins 🔜
   
 ## Projects
-🚀 Here are some projects I'm working on or have worked on: Comming Sooon
-- [Project 1](link): Brief description.
-- [Project 2](link): Brief description.
-- [Project 3](link): Brief description.
+🚀 Here are some projects I'm working on or have worked on 
+- [Project 1](link): Comming Soon
+- [Project 2](link): Comming Soon
+- [Project 3](link): Comming Soon
 
 ## Connect with Me
 📫 Feel free to reach out to me:
-- [LinkedIn] : https://www.linkedin.com/in/sajan-kumar-tak-664076172/
+- [Whatsapp] : +91 6375246288, +91 9783953621
+- [Email] : sktak100@gmail.com
+- [LinkedIn] : https://www.linkedin.com/in/sajan-kumar-tak-664076172
+- [Instagram]: https://www.instagram.com/sajan.tak/?hl=en
+- [Facebook]: https://www.facebook.com/profile.php?id=100072704805740
   
-
 Let's connect and learn together! 😊
