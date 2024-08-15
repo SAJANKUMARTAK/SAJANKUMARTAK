@@ -9,7 +9,7 @@ Contact : +91 6375246288, sktak100@gmail.com
 
 ## Skills
 - Operating System: Linux, Windows ✅
-- Server Management: Linux Server ( Apache Webserver, Mariadb, Ha-proxy, DNS, NFS ) ✅
+- Server Management: Linux Server ( Webserver,Database, Ha-proxy, DNS, NFS, Mail-Server ) ✅
 - Version Control Systems: Git, Github ✅
 - Containerization: Docker ✅
 - Containerization Orchestration: Kubernetes , OpenShift ✅
