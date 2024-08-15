@@ -21,9 +21,21 @@ Contact : +91 6375246288, sktak100@gmail.com
   
 ## Projects
 🚀 Here are some projects I'm working on or have worked on 
-- [Project 1](link): Comming Soon
-- [Project 2](link): Comming Soon
-- [Project 3](link): Comming Soon
+ End to End CI/CD Pipeline, using Jenkins Configured and managed Jenkins pipelines for continuous integration
+and continuous deployment (CI/CD) of a Web application using Jenkins, Git Github, Ubuntu- Linux, Dockerhub,
+Ansible, Docker and Monitoring via AWS Cloud Watch
+ 2 Tier Web Application with AWS, Created a highly available and scalable architecture having web-server and
+database-server. Created custom VPC with public and private Subnets. Using EC2 , SG, ALB, ASG,RDS, Route53,
+NAT gateway, IGW setup completed. Added monitoring element through CloudWatch, notification through SNS
+ Deploying a Wordpress Website by integrating it with MariaDB Database in Docker Container using Docker
+Compose tools ensuring efficient containerization
+ Deploying a High Availblity Website in Kubernetes Cluster using Resources like Pods, Deployment, ConfigMap,
+Namespace, Secrets, Services, PV, PVC, NetworkPolicy, Ingress Controller and so on.
+ Deploying a High Availablity https Website with Linux Servers using Httpd (For Webserver) Mariadb (For
+Database), HAProxy DNS Server & Monitoring my website by Prometheus or Grafana
+ Installing Prometheus, Grafana , Node Exporter through Ansible
+Created Ansible Roles and Playbooks to easily configure all the four packages in our managed hosts. A daunting
+task of installing these manually and creating inidividual services is automated into running ansible playbooks.
 
 ## Connect with Me
 📫 Feel free to reach out to me:
